@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me  
 - 🎓 Studying **Computer Science** at *Universidade Nove de Julho (UNINOVE)*  
-- 💼 Currently working as **Software Developer (Back-End)** at *Cassini Tecnologia*  
+- 💼 Currently working as **support analyst** at *Cassini Tecnologia*  
 - 💡 Interested in **Back-End Development, APIs, and Cloud Computing**  
 - 🚀 Always learning and improving my skills  
 
