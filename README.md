@@ -1,26 +1,54 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fb8500&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fb8500&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fb8500&size=35&center=true&vCenter=true&width=1000&lines=Whats+up,+My+name+is+Lucas+Barreto;I+have+20+years+old;I+live+in+Brazil,+SP;I+study+Computer+Science+at+Uninove;Welcome+to+my+profile:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fb8500&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Lucas+Barreto;I'm+21+years+old;From+Brazil,+SP;Computer+Science+student+at+Uninove;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
+---
 
+### 🧑‍💻 About Me  
+- 🎓 Studying **Computer Science** at *Universidade Nove de Julho (UNINOVE)*  
+- 💼 Currently working as **Software Developer (Back-End)** at *Cassini Tecnologia*  
+- 💡 Interested in **Back-End Development, APIs, and Cloud Computing**  
+- 🚀 Always learning and improving my skills  
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+### 🛠️ Languages & Tools  
 
-### Studying in this moment:
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasOlimpio2314}/count.svg" /></p> 
-<br></div>
-  
+**Main Stack:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fb8500&height=120&section=footer"/>
+**Also familiar with:**  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools:**  
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+### 📊 GitHub Stats  
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LucasOlimpio2314&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasOlimpio2314&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  <br>
+  <p><b>Visitors Count</b></p>  
+  <img src="https://profile-counter.glitch.me/LucasOlimpio2314/count.svg" />
+  <br><br>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fb8500&height=120&section=footer"/>
